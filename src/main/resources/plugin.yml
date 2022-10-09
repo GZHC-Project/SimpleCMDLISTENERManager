@@ -1,0 +1,7 @@
+name: Main
+version: '${project.version}'
+main: github.gzhc.cmdnlist.Main
+api-version: 1.19
+authors: [ night ]
+description: Simple Command And Listener Manager
+website: gzhc.pl
